@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a common error: ZeroDivisionError. The code attempts to calculate the average of a list but doesn't handle the edge case of an empty list.  The solution shows how to correctly handle this scenario.
